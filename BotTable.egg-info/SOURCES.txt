@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+BotTable/__init__.py
+BotTable/__main__.py
+BotTable/api.py
+BotTable/bot.py
+BotTable.egg-info/PKG-INFO
+BotTable.egg-info/SOURCES.txt
+BotTable.egg-info/dependency_links.txt
+BotTable.egg-info/requires.txt
+BotTable.egg-info/top_level.txt
+BotTable/resources/start.png
