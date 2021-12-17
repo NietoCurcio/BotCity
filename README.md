@@ -2,7 +2,9 @@
 
 > A bot that fills a spreadsheet.
 
-[![BotTable Video demonstration](https://img.youtube.com/vi/Lt8UmsEkLpA/0.jpg)](https://www.youtube.com/watch?v=Lt8UmsEkLpA)
+<div align="center">
+  [![BotTable Video demonstration](https://img.youtube.com/vi/Lt8UmsEkLpA/0.jpg)](https://www.youtube.com/watch?v=Lt8UmsEkLpA)
+</div>
 
 The bot takes from an API the most popular movies as data and turns it into a spreadsheet, so human can read and parse the data.
 
