@@ -3,7 +3,7 @@
 > A bot that fills a spreadsheet.
 
 <p align="center">
-  <img src="https://img.youtube.com/vi/Lt8UmsEkLpA/0.jpg" width="650" alt="Educ">
+  <img src=".github/thumb.png" width="650" alt="Educ">
 </p>
 
 The bot takes from an API the most popular movies as data and turns it into a spreadsheet, so human can read and parse the data.
