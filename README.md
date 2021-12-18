@@ -10,7 +10,7 @@ The bot takes from an API the most popular movies as data and turns it into a sp
 
 We use its API to get the data
 
-### Pandas
+## Pandas
 
 Once we got the data, we filter it and make a ".csv" file from a DataFrame created by the data.
 
